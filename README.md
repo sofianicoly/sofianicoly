@@ -1,7 +1,7 @@
 ## Oiê! Eu sou a Soo :)
 Iniciante na programação e aprendendo mais a cada dia.
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sofianicoly&theme=dark&hide_border=false)[![Sofia GitHub Stats](https://github-readme-stats.vercel.app/api?username=sofianicoly&show_icons=true&theme=dark&count_private=true)](https://github.com/sofianicoly/github-readme-stats)
+[![Sofia GitHub Stats](https://github-readme-stats.vercel.app/api?username=sofianicoly&show_icons=true&theme=dark&count_private=true)](https://github.com/sofianicoly/github-readme-stats)|
 
 ## Skills:
 <div style="display: inline_block">
